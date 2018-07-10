@@ -1,0 +1,99 @@
+.lienzo{
+    width: 600px;
+    height: 600px;
+    border: 1px dotted black;
+    margin: 0 auto;
+    position: relative;
+}
+
+.position{
+    position: absolute;
+    
+}
+
+.cuerpo1{
+    width: 400px;
+    height: 20px;
+    background-color: #FFC312;
+    bottom: 310px;
+    left: 100px;
+    
+}
+
+.cuerpo2{
+    width: 400px;
+    height: 20px;
+    background-color: #F79F1F;
+    bottom: 290px;
+    left: 100px;
+}
+
+.metal1{
+    width: 13px;
+    height: 20px;
+    background-color: #d1ccc0;
+    bottom: 310px;
+    left: 87px;
+}
+
+.metal2{
+    width: 13px;
+    height: 20px;
+    background-color: #84817a;
+    bottom: 290px;
+    left: 87px;
+}
+
+.borra1{
+    width: 35px;
+    height: 20px;
+    background-color: #ff5252;
+    bottom: 310px;
+    left: 52px;
+    border-top-left-radius: 20px;
+}
+
+.borra2 {
+    width: 35px;
+    height: 20px;
+    background-color: #b33939;
+    bottom: 290px;
+    left: 52px;
+    border-bottom-left-radius: 20px;
+}
+
+.madera1{
+    width: 0;
+    height: 0;
+    border-bottom: 20px solid #f7d794;
+    border-right: 80px solid transparent;
+    bottom: 310px;
+    left: 500px;
+}
+
+.madera2 {
+    width: 0;
+    height: 0;
+    border-top: 20px solid #f5cd79;
+    border-right: 80px solid transparent;
+    bottom: 290px;
+    left: 500px;
+}
+
+.punta1 {
+    width: 0;
+    height: 0;
+    border-bottom: 7.25px solid #596275;
+    border-right: 29px solid transparent;
+    bottom: 310px;
+    left: 551px;
+}
+
+.punta2 {
+    width: 0;
+    height: 0;
+    border-top: 7.25px solid #303952;
+    border-right: 29px solid transparent;
+    bottom: 302.8px;
+    left: 551px;
+}
